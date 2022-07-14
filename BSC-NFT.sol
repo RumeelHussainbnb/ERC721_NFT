@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/security/Pausable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 
-/** @title HelloWorld */ 
+/** @title BSCNFT */ 
 contract BSCNFT is ERC721, ERC721Enumerable, Pausable, Ownable {
 
     /* Property Variables */
